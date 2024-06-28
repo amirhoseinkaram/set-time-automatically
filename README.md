@@ -17,7 +17,9 @@ This Python script retrieves the current time for a specified city and attempts 
 **Important Notes:**
 
 **Administrator privileges:** This script requires administrator access to modify system time. Use it with caution and only on trusted systems.
+
 **Time API accuracy:** While the World Time API is generally reliable, ensure correct city selection for accurate results.
+
 **Windows behavior:** The `Set-Date` command might not always update the displayed time immediately on Windows. You might need to restart your computer or manually refresh the clock display.
 
 **Disclaimer:**
